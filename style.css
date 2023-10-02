@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: cadetblue;
+}
+.container{
+    text-align: center;
+    padding-top: 250px;
+    
+}
+
+h1{
+    font-size: 52px;
+}
+.num{
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+}
+
+button{
+    padding: 12px 22px;
+    border-radius: 12px;
+    font-size: 18px;
+    background-color: burlywood;
+}
